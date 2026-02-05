@@ -1,6 +1,8 @@
-# Markpad
+# Markpad (Work in Progress)
 
 A minimal markdown editor with live preview and GitHub Gist publishing.
+
+You can find our development on [GitHub's YouTube](https://www.youtube.com/@GitHub/streams) weekly!
 
 ## Features
 
